@@ -31,13 +31,15 @@ body{
     border-width: 5px;
 }
 img{
-  width: 40%;
+  width: 30%;
 }
+
 @media only screen and (max-width: 600px) {
     img {
         width: 60%;
     }
-  }
+
+}
 h3{
     color: var(--color-tertiary);
 }
